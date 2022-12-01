@@ -1,0 +1,17 @@
+
+.App {
+    
+    text-align: center;
+    margin: 0px auto;
+    max-height: 400px;
+    max-width: 300px
+  }
+  
+  Form {
+    border: 1px solid rgb(224, 215, 215);
+    border-radius: 10px;
+    padding: 50px;
+    padding-left: 50px;
+    max-width: 200px;
+    
+  }

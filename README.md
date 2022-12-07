@@ -1,6 +1,6 @@
 <h1 align="center">
-🌐 MERN Stack
-   Ze Blogger
+🌐 MERN Stack - 
+   "Ze Blogger"
 </h1>
 <p align="center">
 MongoDB, Expressjs, React/ Nodejs

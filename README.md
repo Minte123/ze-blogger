@@ -123,12 +123,12 @@ remember to update the file of [client/webpack.prod.js]
 # Screenshots of this project
 
 User visit public and Home page
-![User visit public and Home page](https://drive.google.com/file/d/1vpmFFpyCfUQisxIhA2ig3dohAPfDxi8h/view?usp=sharing)
+![User visit public and Home page](https://github.com/Minte123/blog-api/blob/master/images/1.jpg)
 
 User can sign in or sign up
-![User can sign in or sign up](https://drive.google.com/file/d/1qOrNNKA6d49PrXGAYT2kyJNgRk9Yfqds/view?usp=sharing)
+![User can sign in or sign up](https://github.com/Minte123/blog-api/blob/master/images/2.jpg)
 
-![User can sign in or sign up](https://drive.google.com/file/d/1yoYhmdfsJILSlRmdGUe2FbfwixyLyuXD/view?usp=sharing)
+![User can sign in or sign up](https://github.com/Minte123/blog-api/blob/master/images/3.jpg)
 
 ## Standard
 
